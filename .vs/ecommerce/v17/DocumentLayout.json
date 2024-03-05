@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular 17\\ecommerce\\ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\models\\itemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\models\\itemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\ecommerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\ecommerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|d:\\angular 17\\ecommerce\\ecommerce\\ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26D0BF42-967A-4815-B872-792CC9CDD8E9}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "ecommerce\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T09:00:45.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ecommerce.http",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\ecommerce.http",
+              "RelativeDocumentMoniker": "ecommerce\\ecommerce.http",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\ecommerce.http",
+              "RelativeToolTip": "ecommerce\\ecommerce.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-19T07:20:23.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ecommerce.csproj",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\ecommerce.csproj",
+              "RelativeDocumentMoniker": "ecommerce\\ecommerce.csproj",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\ecommerce.csproj",
+              "RelativeToolTip": "ecommerce\\ecommerce.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-16T10:18:20.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Program.cs",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Program.cs",
+              "RelativeToolTip": "ecommerce\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T10:03:59.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "ecommerce\\appsettings.json",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\appsettings.json",
+              "RelativeToolTip": "ecommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T10:02:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "itemDbContext.cs",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Models\\itemDbContext.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Models\\itemDbContext.cs",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Models\\itemDbContext.cs",
+              "RelativeToolTip": "ecommerce\\Models\\itemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T09:55:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "item.cs",
+              "DocumentMoniker": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Models\\item.cs",
+              "RelativeDocumentMoniker": "ecommerce\\Models\\item.cs",
+              "ToolTip": "D:\\Angular 17\\ecommerce\\ecommerce\\ecommerce\\Models\\item.cs",
+              "RelativeToolTip": "ecommerce\\Models\\item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T09:50:57.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
